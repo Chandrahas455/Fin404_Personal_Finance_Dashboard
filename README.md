@@ -37,4 +37,4 @@ The project follows the MVC (Model-View-Controller) architecture:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/personal-financial-dashboard.git
+   git clone https://github.com/Chandrahas455/Fin404_Personal_Finance_Dashboard.git
